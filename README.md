@@ -9,7 +9,7 @@
 
 Atsakymas:
 
-![histograma](img/pavyzdys1.png)
+![histograma](img/1_uzd.png)
 
 Išvados:
 
@@ -17,7 +17,7 @@ Išvados:
 
 Atsakymas:
 
-![atlyginimai](img/pavyzdys2.png)
+![atlyginimai](img/2.2_uzd.png)
 
 Išvados:
 
@@ -26,7 +26,7 @@ Išvados:
 
 Atsakymas:
 
-![apdraustieji](img/pavyzdys3.png)
+![apdraustieji](img/2.3_uzd.png)
 
 Išvados:
 
@@ -34,5 +34,6 @@ Išvados:
 ### 3. Užduotis
 
 Shiny R aplikacijos nuotrauka:
+(img/Shiny programa.png)
 
 ![shiny app](img/shiny_example.png)
