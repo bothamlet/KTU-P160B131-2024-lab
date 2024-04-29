@@ -34,6 +34,5 @@ Išvados:
 ### 3. Užduotis
 
 Shiny R aplikacijos nuotrauka:
-(img/Shiny programa.png)
 
-![shiny app](img/shiny_example.png)
+![shiny app](img/Shiny programa.png)
